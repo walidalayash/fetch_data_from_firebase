@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "4029449304",
+    "project_id": "walid-bf469",
+    "storage_bucket": "walid-bf469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4029449304:android:e47747b3003fe3f64ab62d",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4029449304-qn126pen8t550rod68vv2k9drojr7q66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEse0Z6wnb-5yrhydr3fH4kd9b0X97YKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4029449304-qn126pen8t550rod68vv2k9drojr7q66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4029449304:android:5b2508e9ba07ce764ab62d",
+        "android_client_info": {
+          "package_name": "com.example.movieapp1q11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4029449304-qn126pen8t550rod68vv2k9drojr7q66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEse0Z6wnb-5yrhydr3fH4kd9b0X97YKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4029449304-qn126pen8t550rod68vv2k9drojr7q66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
